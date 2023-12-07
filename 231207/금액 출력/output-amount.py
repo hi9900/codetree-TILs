@@ -1,0 +1,1 @@
+print(f'You have {input()} won.')
