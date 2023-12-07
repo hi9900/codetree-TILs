@@ -1,0 +1,1 @@
+print(*list(range(1235, 1246)))
