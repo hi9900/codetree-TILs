@@ -8,4 +8,4 @@ ans = {
     'E': 'Effort',
 }
 
-print(ans[c])
+print(ans[c] if c in ['S', 'F', 'G', 'U', 'E'] else 'Failure')
